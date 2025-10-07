@@ -1,0 +1,13 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:junneroreblock"
+    }
+  ],
+  "result": {
+    "item": "more_tools:junneringot",
+    "count": 9
+  }
+}

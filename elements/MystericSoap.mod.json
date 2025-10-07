@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "mysteric_soap",
+    "customModelName": "Normal",
+    "name": "Mysteric Soap",
+    "creativeTab": {
+      "value": "CUSTOM:MoreToolsFood"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 12,
+    "saturation": 1.09,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

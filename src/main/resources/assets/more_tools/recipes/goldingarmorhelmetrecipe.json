@@ -1,0 +1,29 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:goldinggem"
+    },
+    "1": {
+      "item": "more_tools:goldinggem"
+    },
+    "2": {
+      "item": "more_tools:goldinggem"
+    },
+    "3": {
+      "item": "more_tools:goldinggem"
+    },
+    "5": {
+      "item": "more_tools:goldinggem"
+    }
+  },
+  "result": {
+    "item": "more_tools:goldingarmorhelmet",
+    "count": 1
+  }
+}

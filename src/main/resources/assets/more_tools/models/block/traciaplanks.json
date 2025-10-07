@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/tracia_planks",
+    "up": "more_tools:blocks/tracia_planks",
+    "north": "more_tools:blocks/tracia_planks",
+    "east": "more_tools:blocks/tracia_planks",
+    "south": "more_tools:blocks/tracia_planks",
+    "west": "more_tools:blocks/tracia_planks",
+    "particle": "more_tools:blocks/tracia_planks"
+  }
+}

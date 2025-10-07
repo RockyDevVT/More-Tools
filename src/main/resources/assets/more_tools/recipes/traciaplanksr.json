@@ -1,0 +1,16 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:tracialog"
+    }
+  },
+  "result": {
+    "item": "more_tools:traciaplanks",
+    "count": 4
+  }
+}

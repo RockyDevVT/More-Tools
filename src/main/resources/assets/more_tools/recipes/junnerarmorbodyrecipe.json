@@ -1,0 +1,39 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:junneringot"
+    },
+    "2": {
+      "item": "more_tools:junneringot"
+    },
+    "3": {
+      "item": "more_tools:junneringot"
+    },
+    "4": {
+      "item": "more_tools:junneringot"
+    },
+    "5": {
+      "item": "more_tools:junneringot"
+    },
+    "6": {
+      "item": "more_tools:junneringot"
+    },
+    "7": {
+      "item": "more_tools:junneringot"
+    },
+    "8": {
+      "item": "more_tools:junneringot"
+    }
+  },
+  "result": {
+    "item": "more_tools:junnerarmorbody",
+    "count": 1
+  }
+}

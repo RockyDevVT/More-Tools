@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "golding_head",
+    "enableBody": true,
+    "textureBody": "golding_body",
+    "enableLeggings": true,
+    "textureLeggings": "golding_leggings",
+    "enableBoots": true,
+    "textureBoots": "golding_boots",
+    "creativeTab": {
+      "value": "CUSTOM:MoreToolsEquipment"
+    },
+    "armorTextureFile": "golding",
+    "helmetName": "Golding Helmet",
+    "bodyName": "Golding Chestplate",
+    "leggingsName": "Golding Leggings",
+    "bootsName": "Golding Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 15,
+    "damageValueHelmet": 6,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 5,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:GoldingGem"
+      }
+    ]
+  }
+}

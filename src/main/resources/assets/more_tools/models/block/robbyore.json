@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/robby_ore",
+    "up": "more_tools:blocks/robby_ore",
+    "north": "more_tools:blocks/robby_ore",
+    "east": "more_tools:blocks/robby_ore",
+    "south": "more_tools:blocks/robby_ore",
+    "west": "more_tools:blocks/robby_ore",
+    "particle": "more_tools:blocks/robby_ore"
+  }
+}

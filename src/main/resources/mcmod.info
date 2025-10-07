@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "more_tools",
+    "name": "More Tools",
+    "description": "Adds New Blocks Items And Other Varied",
+    "version": "0.5.1.12",
+    "credits": "RockyDevTV Inovative Technologies Ltd",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https:// rockydevtv-inovative-technologies-ltd.github.io",
+    "updateUrl": "https://github.com/RockyDevTV/More-Tools",
+    "authorList": [
+      "RockyDevTV"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

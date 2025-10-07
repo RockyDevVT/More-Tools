@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/fabric",
+    "up": "more_tools:blocks/fabric",
+    "north": "more_tools:blocks/fabric",
+    "east": "more_tools:blocks/fabric",
+    "south": "more_tools:blocks/fabric",
+    "west": "more_tools:blocks/fabric",
+    "particle": "more_tools:blocks/fabric"
+  }
+}

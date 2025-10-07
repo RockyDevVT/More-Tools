@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "golding_pickaxe",
+    "customModelName": "Normal",
+    "name": "Golding Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:MoreToolsEquipment"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 2.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 2.0,
+    "usageCount": 360,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:GoldingGem"
+      }
+    ]
+  }
+}

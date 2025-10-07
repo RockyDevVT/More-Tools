@@ -1,0 +1,9 @@
+# Gradle
+.gradle/
+build/
+run/
+
+# MCreator
+mcreator.gradle
+.mcreator/
+more_tools.mcreator

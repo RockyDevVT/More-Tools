@@ -1,0 +1,13 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_tools:goldingoreblock"
+    }
+  ],
+  "result": {
+    "item": "more_tools:goldinggem",
+    "count": 9
+  }
+}

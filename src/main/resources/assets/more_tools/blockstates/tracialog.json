@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "more_tools:tracialog"
+    },
+    "facing=south": {
+      "model": "more_tools:tracialog"
+    },
+    "facing=north": {
+      "model": "more_tools:tracialog"
+    },
+    "facing=east": {
+      "model": "more_tools:tracialog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "more_tools:tracialog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "more_tools:tracialog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "more_tools:tracialog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

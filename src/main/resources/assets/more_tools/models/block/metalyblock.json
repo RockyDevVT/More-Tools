@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/metaly_blocl",
+    "up": "more_tools:blocks/metaly_blocl",
+    "north": "more_tools:blocks/metaly_blocl",
+    "east": "more_tools:blocks/metaly_blocl",
+    "south": "more_tools:blocks/metaly_blocl",
+    "west": "more_tools:blocks/metaly_blocl",
+    "particle": "more_tools:blocks/metaly_blocl"
+  }
+}

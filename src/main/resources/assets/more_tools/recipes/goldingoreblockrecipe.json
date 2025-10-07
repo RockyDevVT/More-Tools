@@ -1,0 +1,42 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:goldinggem"
+    },
+    "1": {
+      "item": "more_tools:goldinggem"
+    },
+    "2": {
+      "item": "more_tools:goldinggem"
+    },
+    "3": {
+      "item": "more_tools:goldinggem"
+    },
+    "4": {
+      "item": "more_tools:goldinggem"
+    },
+    "5": {
+      "item": "more_tools:goldinggem"
+    },
+    "6": {
+      "item": "more_tools:goldinggem"
+    },
+    "7": {
+      "item": "more_tools:goldinggem"
+    },
+    "8": {
+      "item": "more_tools:goldinggem"
+    }
+  },
+  "result": {
+    "item": "more_tools:goldingoreblock",
+    "count": 1
+  }
+}

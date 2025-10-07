@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "More Tools: Equipment",
+    "icon": {
+      "value": "CUSTOM:JunnerSword"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "§3More Tools: Blocks",
+    "icon": {
+      "value": "CUSTOM:TraciaLog"
+    },
+    "showSearch": false
+  }
+}

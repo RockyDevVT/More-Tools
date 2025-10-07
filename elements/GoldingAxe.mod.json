@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "golding_axe",
+    "customModelName": "Normal",
+    "name": "Golding Axe",
+    "creativeTab": {
+      "value": "CUSTOM:MoreToolsEquipment"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 3.0,
+    "enchantability": 14,
+    "damageVsEntity": 9.5,
+    "usageCount": 360,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:GoldingGem"
+      }
+    ]
+  }
+}

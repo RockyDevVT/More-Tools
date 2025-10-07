@@ -1,0 +1,26 @@
+{
+  "group": "more_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_tools:junneringot"
+    },
+    "2": {
+      "item": "more_tools:junneringot"
+    },
+    "3": {
+      "item": "more_tools:junneringot"
+    },
+    "5": {
+      "item": "more_tools:junneringot"
+    }
+  },
+  "result": {
+    "item": "more_tools:junnerarmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_tools:blocks/tracia_log_top",
+    "up": "more_tools:blocks/tracia_log_top",
+    "north": "more_tools:blocks/tracia_log",
+    "east": "more_tools:blocks/tracia_log",
+    "south": "more_tools:blocks/tracia_log",
+    "west": "more_tools:blocks/tracia_log",
+    "particle": "more_tools:blocks/tracia_log_top"
+  }
+}
